@@ -54,6 +54,7 @@ The SQLite database (`ecommerce.db`) contains 7 tables:
 12. Identify the cumulative sales per month for each year
 13. Calculate the year-over-year growth rate of total sales
 14. Retain the top 3 customers by total payment amount for each year (with visualization)
+15. Calculate the retention rate of customers, defined as the percentage of customers who make another purchase within 6 months of their first purchase.
 
 ---
 
